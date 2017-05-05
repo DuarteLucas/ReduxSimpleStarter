@@ -13,7 +13,7 @@ const API_KEY = 'AIzaSyDOy40pU-caImdARxvBYsMmHuFmJ05xTok';
 // Create a new component. This component should produce
 // some HTML
 class App extends Component {
-  Constructor(props) {
+  constructor(props) {
     super(props);
 
     this.state = { videos: [] };
