@@ -1,4 +1,4 @@
-import _ from 'lodash';
+import _ from 'lodash'; //throttle user input
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
